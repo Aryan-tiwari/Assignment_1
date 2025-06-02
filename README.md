@@ -12,6 +12,3 @@ This repository contains solutions for three Android assignment problems:
 
 Each project is inside its own folder with a **project-specific README** containing detailed descriptions, setup instructions, and usage.
 
----
-
-## Repository Structure
